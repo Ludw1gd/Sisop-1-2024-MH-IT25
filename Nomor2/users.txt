@@ -1,0 +1,23 @@
+ 
+Email: admin@gmail.com
+Status: Admin
+Username: admin
+Security Question: aku keren kan?
+Security Answer: iya dong
+Password: QXhlbGxpbm8yMDA0
+ 
+Email: tioirin2004@gmail.com
+Status: User
+Username: axellino
+Security Question: apakah sisop sangat mudah?
+Security Answer: tidak
+Password: QmF0dXNhbmdrYXIyMDA0
+ 
+ 
+Email: axellino24@gmail.com
+Status: User
+Username: bromance24
+Security Question: aku keren kan?
+Security Answer: iya dong
+Password: QmF0dXNhbmdrYXIyMDA0
+ 

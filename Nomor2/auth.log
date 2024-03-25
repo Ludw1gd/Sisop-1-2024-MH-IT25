@@ -1,0 +1,9 @@
+[24/03/24 13:00:01] [LOGIN SUCCESS] user admin has logged succesfully as Admin
+[24/03/24 13:00:16] [USER DELETED FAILED] The Admin admin enters the unregistered email: axellino24@gmail.com
+[24/03/24 13:00:25] [USER DELETED SUCCESS] The Admin admin deleted user axellino2004@gmail.com succesfully
+[24/03/24 13:01:35] [LOGIN SUCCESS] user admin has logged succesfully as Admin
+[24/03/24 13:01:37] [LOGOUT] The Admin admin  has logged out
+[24/03/24 13:03:00] [LOGIN SUCCESS] user admin has logged succesfully as Admin
+[24/03/24 13:03:01] [LOGOUT] The Admin admin has logged out
+[24/03/24 15:40:55] [REGISTER SUCCESS] user bromance24 as User registered succesfully
+[24/03/24 16:22:44] [PASSWORD RESET SUCCESS] Password reset successful for email axellino24@gmail.com
